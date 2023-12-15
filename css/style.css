@@ -367,7 +367,7 @@ span {
 }
 
 @media (max-width: 1200px) {
-	html{
+	html {
 		font-size: 55%;
 	}
 }
@@ -376,9 +376,11 @@ span {
 	.header {
 		padding: 2rem 3%;
 	}
+
 	section {
 		padding: 10rem 3% 2rem;
 	}
+
 	.footer {
 		padding: 2rem 3%;
 	}
@@ -400,6 +402,7 @@ span {
 		box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.2);
 		display: none;
 	}
+
 	.navbar.active {
 		display: block;
 	}
